@@ -105,6 +105,10 @@ the following requirements carefully.
     - Type of request
     - Response code (404, 200, etc.)
 
+* Analytics systems:
+  + You can choose any data ingestion tools. Better yet, write one yourself. 
+  + You must use HDFS for storage, and Spark for analytics tasks. 
+
 <br>
 ### Submission 
 You must create a private Github repository and invite the instructor before the deadline. 

@@ -15,15 +15,15 @@ layout: default
 
 ## Course Description
 Database systems manage data which is at the heart of modern computing applications. We are in the era of big
-data, in which data is generated from many sources, in high velocity, and in high variety. This era presents  
+data, in which data is generated from many sources, in high velocity, and in high variety. This era presents
 numerous challenges in using and improving database technologies. Big data systems designed to support
 analytics are maturing and are becoming increasingly important to many applications.
 
 This course covers the fundamentals of traditional databases, such as Oracle and MySQL, and core ideas of
 recent big data systems. Students will learn important problems in data management that these systems are
 designed to solve. They will experience with building applications on top of traditional databases, namely
-MySQL, and state‐of‐the‐art big data platforms, namely MongoDB and Apache Spark. These systems will be
-running both locally and on the Amazon cloud (Amazon Web Service). The students will be able to determine the
+MySQL, and state‐of‐the‐art big data platforms, namely MongoDB and Apache Spark. These systems will be running
+both locally and on the Amazon cloud (Amazon Web Service). The students will be able to determine the
 advantages and disadvantages of different systems.
 
 ## Resources
@@ -54,9 +54,9 @@ Your final grade is computed as follows:
 ## Project
 Checkout the [Project](../project) page for more details. 
 
-## Late policy
+## Late Policy
 No late submission. 
 
-## Academic integrity
+## Academic Integrity
 You can discuss solution and code with your friends. But you cannot copy other people's code, including codes on
 the Internet. We will run project submission through a plagiarism checker.
