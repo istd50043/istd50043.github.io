@@ -131,7 +131,11 @@ Your project is graded based on what you submit, and a live demonstration of the
   + Speed (how fast the analytics tasks run) 
 * 1 point for documentation.
 
-<br> 
+<br>
+### Testing Environment
+We will start a fresh EC2 instance from `ami-04613ff1fdcd2eab1` to test your submission. Make sure you include
+the script to setup any necessary dependencies. 
+
 ### Checkpoints
 Checkpoints are for the instructors to give feedback on the project progress. Each group will have a slot of
 20-30 minute consultation. Sign-up sheets will be available one week before the checkpoint.  
