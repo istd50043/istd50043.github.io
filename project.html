@@ -197,6 +197,9 @@ non-relational databases.</li>
     <ul>
       <li>You can choose any data ingestion tools. Better yet, write one yourself.</li>
       <li>You must use HDFS for storage, and Spark for analytics tasks.</li>
+      <li>You must implement the correlation task (computing Pearson correlation) in map-reduce fashion, using basic
+Spark operators. You are not allowed to use <code class="language-plaintext highlighter-rouge">mllib.stat.Satistics</code>. For the TF-IDF task, you can use other
+Spark libraries.</li>
     </ul>
   </li>
 </ul>
