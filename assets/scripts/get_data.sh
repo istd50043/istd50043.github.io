@@ -10,4 +10,4 @@ wget -c https://istd50043.s3-ap-southeast-1.amazonaws.com/meta_kindle_store.zip 
 unzip meta_kindle_store.zip
 
 # Clean up
-rm -rf *.zip
+rm -rf kindle-reviews.zip meta_kindle_store.zip
