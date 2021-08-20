@@ -14,3 +14,5 @@ baseurl:
 sass:
   sass_dir: css
 
+
+theme: jekyll-theme-cayman
