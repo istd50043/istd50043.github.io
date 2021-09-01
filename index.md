@@ -3,28 +3,28 @@ layout: default
 ---
 
 
-# Database and Big Data Systems
+# Database and Big Data Systems (2021)
 * **When**: 
-    + Lectures: Tuesday 8.30-11.30am
-    + Tutorials: Wednesday 9-11am, Thursday 6-8pm 
+    + Lectures: Monday 3-6pm 
+    + Tutorials: Wednesday 9-11am (Cohort 1), 11.30-1.30pm (Cohort 2), Thursday 6-8pm (Cohort 3) 
+
 * **Where**: *Zoom*
 * **Instructors**: 
-    + [Dinh Tien Tuan Anh](https://dinhtta.github.io/). Office hour: 2-3pm Monday
-    + [Kenny Lu](https://istd.sutd.edu.sg/people/faculty/kenny-lu-zhuo-ming). Office hour: 
-* **Teaching Assistant**: Vishva Meegalla
+    + [Kenny Lu](https://istd.sutd.edu.sg/people/faculty/kenny-lu-zhuo-ming)  
+    + [Dinh Tien Tuan Anh](https://dinhtta.github.io/) 
+* **Teaching Assistant**: [Daniel Petrus Reijsbergen](https://itrust.sutd.edu.sg/people/researchers/dr-daniel-petrus-reijsbergen/)
 
 ## Course Description
-Database systems manage data which is at the heart of modern computing applications. We are in the era of big
-data, in which data is generated from many sources, in high velocity, and in high variety. This era presents
-numerous challenges in using and improving database technologies. Big data systems designed to support
-analytics are maturing and are becoming increasingly important to many applications.
+Database systems manage data which is at the heart of modern computing
+applications.  This course covers the fundamentals of traditional databases,
+such as Oracle and MySQL, and core ideas of recent big data systems. 
 
-This course covers the fundamentals of traditional databases, such as Oracle and MySQL, and core ideas of
-recent big data systems. Students will learn important problems in data management that these systems are
-designed to solve. They will experience with building applications on top of traditional databases, namely
-MySQL, and state‐of‐the‐art big data platforms, namely MongoDB and Apache Spark. These systems will be running
-both locally and on the Amazon cloud (Amazon Web Service). The students will be able to determine the
-advantages and disadvantages of different systems.
+Students will learn important problems in data management that these systems
+are designed to solve. They will experience with the internal design and
+implementation of relational databases. They will also understand the internals
+of state‐of‐the‐art big data platforms, namely Apache Spark, and use them on
+Amazon cloud (Amazon Web Service). The students will be able to determine the
+advantages and limitations of different database systems.
 
 ## Resources
 The main resources are lecture slides, tutorial sessions, and online documentations. There are no official
@@ -36,23 +36,27 @@ textbooks. But the following are useful for reference and deeper understanding o
 
 ## Grading
 Your final grade is computed as follows:
-* <h5> Quizzes: 30%</h5>
+* <h5> Homework: 12%</h5>
 
     There will be 3 quizzes, 10 points each
 
-* <h5> Project: 25%</h5>
+* <h5> Project: 60%</h5>
 
-    Group project, up to 5 per group. Unless notifying the instructors otherwise, all group members have the
+    Group project, up to 3 per group. Unless notifying the instructors otherwise, all group members have the
     same grade for the project. 
 
 * <h5> Class participation: 3%</h5>
 
     Ask/answer questions during classes, spot mistakes, etc.
 
-* <h5> Final: 42%</h5>
+* <h5> Final: 25%</h5>
 
 ## Project
-Checkout the [Project](../project) page for more details. 
+Check out the [Project](https://github.com/istd50043/project_21) page for more details. 
+
+## Contact 
+Email the instructors any questions regarding the course content and logistics.
+Email Daniel if you have questions or need help with homeworks and projects. 
 
 ## Late Policy
 No late submission. 

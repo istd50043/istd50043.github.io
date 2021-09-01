@@ -5,8 +5,8 @@ layout: default
 
 
 # Schedule
-This is a tentative schedule.  Lectures are run by Anh Dinh (AD) and Kenny Lu (KL). Tutorials are run by
-instructors of the corresponding weeks, and by Vishva Meegalla.  
+This is a tentative schedule.  Lectures are run by Kenny Lu (KL) and Anh Dinh
+(AD).  
 
 <table class="table table-striped syllabus">
 <thead>
