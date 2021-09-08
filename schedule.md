@@ -52,7 +52,6 @@ This is a tentative schedule.  Lectures are run by Kenny Lu (KL) and Anh Dinh
 
 <br>
 ### Functional Dependencies, Normal Forms (KL) 
-
 **Reading:**
 * DBM: Chapter 19
 * DSC: Chapter 8
@@ -84,14 +83,12 @@ This is a tentative schedule.  Lectures are run by Kenny Lu (KL) and Anh Dinh
 ### Query Operations
 
 
+
 {% include syllabus_entry %}
 ### Recess
 
 {% include tutorial_entry %}
 ### Recess 
-
-
-
 
 {% include syllabus_entry %}
 ### Project Submission 2
