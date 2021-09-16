@@ -60,14 +60,14 @@ This is a tentative schedule.  Lectures are run by Kenny Lu (KL) and Anh Dinh
 ### FD + Normal Forms
 
 {% include syllabus_entry %}
-### Storage, Index Part 1 (AD)
+### Storage, Index
 
 **Reading:**
 * DBM: Chapter 8-11
 * DSC: Chapter 10-11
 
 {% include tutorial_entry %}
-### Storage, Index Part 2 (AD)
+### Storage, Index
 
 
 
@@ -78,6 +78,8 @@ This is a tentative schedule.  Lectures are run by Kenny Lu (KL) and Anh Dinh
 ### Query Operations (AD)
 
 **Reading:**
+* DBM: Chapter 12-14
+* DSC: Chapter 12
 
 {% include tutorial_entry %}
 ### Query Operations
@@ -97,6 +99,8 @@ This is a tentative schedule.  Lectures are run by Kenny Lu (KL) and Anh Dinh
 ### Query Optimization (AD)
 
 **Reading:**
+* DBM: Chapter 15
+* DSC: Chapter 13
 
 {% include tutorial_entry %}
 ### Query Optimization
