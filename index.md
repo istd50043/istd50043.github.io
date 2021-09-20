@@ -38,7 +38,7 @@ textbooks. But the following are useful for reference and deeper understanding o
 Your final grade is computed as follows:
 * <h5> Homework: 12%</h5>
 
-    There will be 3 quizzes, 10 points each
+    There will be 2 homework assignments, 6 points each. 
 
 * <h5> Project: 60%</h5>
 
